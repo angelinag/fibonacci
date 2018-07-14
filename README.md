@@ -1,8 +1,7 @@
 # Fibonacci
 
-Fibonacci is a small code 
-A canvas project I made when I was bored.
-Click anywhere on the page and a magical fibonacci spiral will be created.
+Fibonacci is a short canvas project I made when I was bored.
+Click anywhere on the page and a "magical" fibonacci spiral will be created.
 Made with html canvas and js.
 
 TODO:
